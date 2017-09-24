@@ -1,0 +1,9 @@
+body {
+    background-color:#000;
+    text-align: center;
+    color:#fff;
+    padding-top:10em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+  
+  * { color:#fff; text-decoration: none;}
